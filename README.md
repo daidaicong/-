@@ -1,10 +1,4 @@
 # 23级培训计划
-
-## 整体介绍
-### 1.主要的任务
-  - calibrate_task
-  - CAN_receive
-  - chassis_remote_control
   
 ## 学习任务
 ### 一、C语言学习内容
@@ -37,6 +31,14 @@
 - 枚举
 - FreeRTOS
 
+### 机器人主要介绍
+#### 1.了解RTOS中主要的任务
+  - calibrate_task
+  - CAN_receive
+  - chassis_remote_control
+  - detect_task
+  - gimbal_task ...
+      2.
 ### 三、控制算法内容学习
 
 - PID算法，并用C语言结构体进行封装
